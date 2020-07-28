@@ -1,0 +1,26 @@
+I timed Hadoop and Spark tasks by reading the time on terminal.
+
+
+
+Performance of Hadoop Implementation on Task-2:
+Start time: 21:29:04
+Finish time: 21:29:21
+Duration: 17 seconds
+
+Performance of Spark Implementation on Task-2(Spark Task-1):
+Start time: 20:58:11
+Finish time: 20:58:15
+Duration: 4 seconds
+
+
+
+Performance of Hadoop Implementation on Task-3:
+StartTime: 21:35:01
+FinishTime: 21:35:19
+Duration: 18 seconds
+
+Performance of Spark Implementation on Task-3(Spark Task-2):
+Start time: 20:54:46
+Finish time: 20:54:50
+Duration: 4 seconds
+
